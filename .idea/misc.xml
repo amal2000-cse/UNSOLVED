@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_ask_aquestion.xml" value="0.136" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_home.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_login.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_registration.xml" value="0.176" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/Users/HARIKRISHNA/Desktop/UNSOLVED/Quoraclone/app/src/main/res/layout/questions_retrieved_layout.xml" value="0.264" />
+        <entry key="..\:/Users/HARIKRISHNA/Downloads/UNSOLVED/Quoraclone/app/src/main/res/drawable/text_style.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/HARIKRISHNA/Downloads/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_ask_aquestion.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HARIKRISHNA/Downloads/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_category_selected.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/HARIKRISHNA/Downloads/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_login.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/HARIKRISHNA/Downloads/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_registration.xml" value="0.12360688956433637" />
+        <entry key="..\:/finial_part_03/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_login.xml" value="0.13240740740740742" />
+        <entry key="..\:/finial_part_03/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_main.xml" value="0.13240740740740742" />
+        <entry key="..\:/finial_part_03/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_registration.xml" value="0.13240740740740742" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/drawable-v24/button_style.xml" value="0.2703125" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/drawable-v24/text_style.xml" value="0.2703125" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/drawable/button_style.xml" value="0.14635416666666667" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/drawable/text_style.xml" value="0.14635416666666667" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/finial_part_04/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/finial_part_05/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_category_selected.xml" value="0.25416666666666665" />
+        <entry key="..\:/finial_part_05/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_comments.xml" value="0.25416666666666665" />
+        <entry key="..\:/finial_part_05/UNSOLVED/Quoraclone/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/button_style.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_comment.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_dislike.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_disliked.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_finance.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_more.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_rate.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_save_icon.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_sports.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_thumb_up.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/ic_transport.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/drawable/text_style.xml" value="0.23072916666666668" />
+        <entry key="app/src/main/res/layout/activity_ask_aquestion.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_category_selected.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_comments.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_finance.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/comments_layout.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/questions_retrieved_layout.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/menu/post_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

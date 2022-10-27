@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unsolved App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="topics">
+        <item>select topic</item>
+        <item>Finanace</item>
+        <item>sports</item>
+        <item>food</item>
+
+    </string-array>
+</resources>

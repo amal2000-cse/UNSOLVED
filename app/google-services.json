@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "165768440446",
+    "firebase_url": "https://quora-mobile-application-default-rtdb.firebaseio.com",
+    "project_id": "quora-mobile-application",
+    "storage_bucket": "quora-mobile-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165768440446:android:7543b71a4f79e22300862f",
+        "android_client_info": {
+          "package_name": "com.example.quoraclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165768440446-t5up4emvl1eaeph2ik1h32qg26ap9gja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quoraclone",
+            "certificate_hash": "a457afe0fa2a8701179430d3c0be572f21cfdb4b"
+          }
+        },
+        {
+          "client_id": "165768440446-f2nq8aeqdaaepnr5h6s3uajo3liaat44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-QFCjRwC9BYA3dBuWsj14xBtByz86hT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165768440446-f2nq8aeqdaaepnr5h6s3uajo3liaat44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
